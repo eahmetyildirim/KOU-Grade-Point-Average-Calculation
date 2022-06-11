@@ -1,0 +1,5 @@
+Kablosuz Ağlar,50.626324,CB,2.5,5.0
+Akıllı Sİstemler,96.19,AA,4.0,5.0
+Bilişim Hukuku,94.0,AA,4.0,5.0
+Bilişim Hukuku,75.0,BB,3.0,2.0
+Sayısal Entegre,87.0,BA,3.5,5.0
